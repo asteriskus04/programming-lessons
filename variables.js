@@ -2,4 +2,6 @@ let name = "Armen";
 
 let age = 12;
 
-console.log(name);
+let arr = [];
+
+console.log(typeof arr);
