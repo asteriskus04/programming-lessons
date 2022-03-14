@@ -6,7 +6,7 @@
 1. **[Шашкин Артем](https://github.com/Artmen212/programming-lessons-1)**
 1. **[Даниил Бестужев](https://github.com/bestdaniil/programming-lessons)**
 1. **[Вахрушева Дарья Сергеевна](https://github.com/DashaVa/programming-lessons-1)**
-1. **[Перменкова Ксения](https://github.com/Ksu07/programming-lessons-1)**
+1. **[Перменкова Ксения](https://github.com/Ksu07/programming-lessons-1)** Ветка from_other_repo
 1. **[Кузнецов Владимир](https://github.com/kumpat/programming-lessons)**
 1. **[Гой Никита Александрович](https://github.com/mamay2343/programming-lessons-1)**
 1. **[Надежда Милитенко](https://github.com/NadezhdaMilet/programming-lessons)**
